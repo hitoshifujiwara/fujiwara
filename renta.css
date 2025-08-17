@@ -1,0 +1,18 @@
+body{
+	background-color:#FAF0E6;
+
+}
+table{
+	border-collapse: collapse;
+	border: solid 1px #888;
+	background-color: #f0f2f7;
+	text-align: center;
+}
+th,td{
+	padding:5px 15px;
+	border: solod 1px #333;
+}
+th{
+	color:#0d90f3;
+	background-color: #d0ebfd;
+}
